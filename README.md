@@ -20,3 +20,7 @@
 #### Shows charactes that the players choose
 #### Determine who win or lose
 #### Give coin
+
+
+
+### This program will use java language and solid principle
